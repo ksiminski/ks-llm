@@ -1,4 +1,4 @@
-# Examples of llm with python
+# Examples of LLM with Python
 
 The repository contains examples of how to use large language models (LLMs) with Python.
 
